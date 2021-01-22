@@ -4,7 +4,7 @@ title: Our story
 permalink: /our-story/
 header:
   title: ""
-  image_fullwidth: logo_image.png
+  image_fullwidth: journey.jpg
 
 ---
 
