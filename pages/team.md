@@ -7,7 +7,7 @@ header:
   image_fullwidth: logo_image.png
 widgets:
 - url: https://www.linkedin.com/in/dawson-mwangi-ab229659/
-  image: dawson2.jpg
+  image: dawson.jpg
   title: <a href="https://www.linkedin.com/in/dawson-mwangi-ab229659/" target="_blank">Bryan Dawson Wachira Mwangi</a>
   text: CEO and Co-founder
 

@@ -7,7 +7,7 @@ header:
   image_fullwidth: logo_image.png
 widgets:
 - url: 
-  image: logo_image.png
+  image: Fuel.png
   title: Sale of Fuel
   text: This is our core business with the construction of the plant we intend on distributing fuel to small and middle scale farmers through direct purchase from the farmers and though satellite fuel stations that are normally found in most villages. 
   In our first year in operations we intend on supplying up to 500,000 Liters of fuel with a goal of tripling that amount by the second year.
@@ -26,7 +26,7 @@ widgets:
   cols: 4
 
 - url: 
-  image: logo_image.png
+  image: plastic_trash.jpg
   title: Sorting and Shredding of Plastic Waste
   text: This divisions main purpose will be to supply our plant with clean, graded and shredded plastic, however this division will also sell the clean, graded and shredded plastics to the other consumers in the market that already purchase waste plastic from dumpsites. 
   
