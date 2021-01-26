@@ -9,17 +9,38 @@ header:
 ---
 
 
+<!-- How it all started -->
+Our story began in late 2017 when two entrepreneurs from Chandaria Business Innovation and Incubation Center sat down and decided to do something about the challenges associated with plastic waste. 
+We realized that we had to change people's perception of plastic waste; and this would only be possible if we found a way to turn plastic waste into a resource. 
+This is when we decided to build a machine that could produce fuel from plastic waste.
+Affordable fuel for stationary diesel engines would create a market for plastic waste and thus turn it into a resource.
 
-Our story begun in Late 2017 when two incubates from Chandaria Business Innovation and Incubation Center sat down and decided to do something to address the issue around plastic waste. We realized that for there to be a sustainable solution in addressing the matter we had to change people’s perception about plastic waste, this would only be possible if we found a way of turning plastic waste to resource. 
-This is when we decided to work on building a processor that could safely produce affordable fuel for stationery diesel engines from plastic waste. Through this process we would provide a market for plastic waste thus turning plastic waste into a resource. 
 
-We did extensive research and in 2018, built and tested our first proof of concept model. This was a very simple processor which had the capacity to process up to 6kgs of plastic waste per batch. In June 2018 we exhibited it at the African Youth Innovation Summit in Kigali, Rwanda. This lead to us getting noticed and subsequently lead to us receiving a Proto-typing grant from United Nations Development Fund.    
-In 2019 we were selected to join the Royal Academy of Engineering Fellowship. At the time we had improved on our initial processor and built one that could be used domestically and had the capacity to process 30kgs of plastic per batch with a maximum of 3 rotations per day. The Kenya Innovation Agency then came in and gave us a commercialization grant in Late 2019.
+<!-- 2018 -->
+We started with extensive research.
+By 2018 we've built and tested our first proof of concept model from the ground up. 
+This was a very simple processor which had the capacity to process up to 6kgs of plastic waste per batch. 
+In June 2018 we exhibited it at the African Youth Innovation Summit in Kigali, Rwanda. 
+We were noticed and we subsequently received a prototyping grant from the UN Development Fund.
 
-We proceeded on redesigning and reengineering our domestic processor to one that was more efficient; less cook time and consumed less energy. Through extensive research and trials, we were finally able to make our commercial processor from the ground up having a capacity of processing 30kgs of plastic waste per batch with a maximum of 10 rotations per day. The processor was also designed to be self-sufficient which would mean with the presence of a generator it would run off grid. We had initially identified our target market who are farmers practicing irrigation and once the machine was up and running we did mapping and identified over 100 farmers from just one county in Kenya who would be consumers of our fuel since they were already using diesel powered generators for irrigation. 
 
-As of 2021 we are now ready to go fully commercial. We are done with building our processing equipment, this has the capacity of processing up to 300kgs of plastic per day running at only 20% performance due to power regulations at our current location. However, by building the plant we intend on this will be able to go to as high as 1 tonne per day. 
+<!-- 2019 -->
+In 2019 we were selected to join the Royal Academy of Engineering Fellowship.
+By then we've improved on our initial processor and built one that could be used domestically - with the capacity of 30kgs of plastic per batch and the maximum of 3 batches per day.
+In late 2019 we received a commercialization grant from the Kenya Innovation Agency.
+We proceeded to improve our processor further to make it more efficient and hence reduce the amount of energy and time required to make the fuel.
+Through extensive research and experimentation we've developed our commercial processor with the capacity of 30kgs of plastic per batch and the maximum of 10 batches per day.
+The processor was also designed to be self-sufficient and able to run off-grid by using the fuel it produces to power a generator.
 
-Our business model involves a process that integrates all players in the value chain. Right from the plastic waste supplier to the pyrolysis oil buyer. We also realized that for some large scale farmers it will make more sense if we build them their own plants due to their high consumption rate.
- 
 
+<!-- Target market -->
+We've identified farmers practicing irrigation as our initial target market. 
+Market research showed that there are more than 100 farmers in just a single county in Kenya who are already using diesel powered generators for irrigation and hence would benefit from our affordable fuel. 
+We also realized that for some large scale farmers it will make more sense if we build them their own plants due to their high consumption rate.
+
+
+<!-- 2021 -->
+As of 2021 we are now ready to go fully commercial.
+Our processor now has the capacity of 300kgs of plastic per day when running at 20% performance due to power regulations at our current location.
+By building a commercial plant we will be able to scale it to 1 tonne of plastic per day. 
+Our business model integrates all stakeholders in the value chain; right from the plastic waste supplier to the pyrolysis oil buyer. 

@@ -9,19 +9,19 @@ widgets:
 - url: 
   image: Fuel.jpg
   title: Sale of Fuel
-  text: "This is our core business with the construction of the plant we intend on distributing fuel to small and middle scale farmers through direct purchase from the farmers and though satellite fuel stations that are normally found in most villages. In our first year in operations we intend on supplying up to 500,000 Liters of fuel with a goal of tripling that amount by the second year. At a rate of approximately 600 -700ml of fuel per Kg of plastic waste."
+  text: "This is our core business. Once we build our first commercial plant we will be distributing fuel to small and medium scale farmers through direct purchase from the farmers and through satellite fuel stations that are found in most villages. During our first year of operation we are planning to supply about 500,000 liters of fuel, with a goal of tripling this amount next year. We are able to produce 600-700ml of fuel from 1kg of plastic waste."
   cols: 4
 
 - url: 
   image: logo_image.png
   title: Construction of processing plants
-  text: "In this division we specialize in construction of private processing units for own personal use. The plants are customized to fit the specific needs of the client with our main focus being large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. At a rates starting from of 20,000 USD depending on the consumption needs of the client."
+  text: "We specialize in construction of private processing units for large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. The plants can be customized to fit the specific needs of each client. The rates are starting from USD 20,000, depending on the capacity required."
   cols: 4
 
 - url: 
   image: plastic_trash.jpg
   title: Sorting and Shredding of Plastic Waste
-  text: "This divisions main purpose will be to supply our plant with clean, graded and shredded plastic, however this division will also sell the clean, graded and shredded plastics to the other consumers in the market that already purchase waste plastic from dumpsites. In our first year of operations we intend riding the environment of 1,000,000 tonnes of plastic. We also intend on redirecting 10% of our income towards awareness creation on the value of plastic waste."
+  text: "We are producing clean, graded and shredded plastic for supplying our plant. We are also selling this feedstock to other consumers in the market who are already purchasing waste plastic from dumpsites. During our first year of operation we are planning to remove 1,000,000 tonnes of plastic waste from the environment. We will use 10% of our profit towards raising the awareness about the value of plastic waste."
   cols: 4
 
 ---
@@ -35,3 +35,6 @@ widgets:
     {% endif %}
   {% endfor %}
 </div>
+
+
+
