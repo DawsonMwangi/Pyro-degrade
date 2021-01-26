@@ -22,8 +22,18 @@
 			{% if widget_image != empty %}<img src="{{ widget_image }}" alt="" />{% endif %}
 		</a>
 	{% endif %}
+
+	{% if include.widget.teaser != empty %}
+	<h2 class="font-size-h5 font-widget-teaser t10">{{ include.widget.teaser }}</h2>
+	{% endif %}
+
+	{% if include.widget.title != empty %}
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
-	{% if include.widget.text != empty %}<p>{{ include.widget.text }}</p>{% endif %}
+	{% endif %}
+
+	{% if include.widget.text != empty %}
+	<p>{{ include.widget.text }}</p>
+	{% endif %}
 
 	{% comment %}
 	{% else %}
@@ -37,3 +47,8 @@
 	</div>
 	{% endif %}
 </div>
+
+
+
+
+
