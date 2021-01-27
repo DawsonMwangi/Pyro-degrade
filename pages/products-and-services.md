@@ -9,19 +9,19 @@ widgets:
 - url: 
   image: Fuel.jpg
   title: Sale of Fuel
-  text: "This is our core business. Once we build our first commercial plant we will be distributing fuel to small and medium scale farmers through direct purchase from the farmers and through satellite fuel stations that are found in most villages. During our first year of operation we are planning to supply about 500,000 liters of fuel, with a goal of tripling this amount next year. We are able to produce 600-700ml of fuel from 1kg of plastic waste."
+  text: "This is our core business. Our fuel; Pyro-diesel has many beneficial properties to both the users and the environment. To the users the most important is the pricing point which is 30% less than ordinary diesel. To the environment Pyro-diesel is free of Sulphur and has less carbon emission as compared to ordinary diesel."
   cols: 4
 
 - url: 
   image: logo_image.png
   title: Construction of processing plants
-  text: "We specialize in construction of private processing units for large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. The plants can be customized to fit the specific needs of each client. The rates are starting from USD 20,000, depending on the capacity required."
+  text: "We specialize in construction of private processing units for large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. The plants vary in sizes mainly based on the specific clients demands and storage capacity. A standard plant is designed to fit inside a standard 20ft container, this also comes with fuel, water and gas storage tanks which are set up outside the container and the package also includes a plastic shredder which is also a separate set up."
   cols: 4
 
 - url: 
   image: plastic_trash.jpg
   title: Sorting and Shredding of Plastic Waste
-  text: "We are producing clean, graded and shredded plastic for supplying our plant. We are also selling this feedstock to other consumers in the market who are already purchasing waste plastic from dumpsites. During our first year of operation we are planning to remove 1,000,000 tonnes of plastic waste from the environment. We will use 10% of our profit towards raising the awareness about the value of plastic waste."
+  text: "We are producing clean, graded and shredded plastic for supplying our plant. We are also selling this feedstock to other consumers in the market who are already purchasing waste plastic from dumpsites."
   cols: 4
 
 ---
