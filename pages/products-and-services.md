@@ -13,13 +13,13 @@ widgets:
   cols: 4
 
 - url: 
-  image: logo_image.png
+  image: Processing_Plant.jpeg
   title: Construction of processing plants
   text: "We specialize in construction of private processing units for large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. The plants vary in sizes mainly based on the specific clients demands and storage capacity. A standard plant is designed to fit inside a standard 20ft container, this also comes with fuel, water and gas storage tanks which are set up outside the container and the package also includes a plastic shredder which is also a separate set up."
   cols: 4
 
 - url: 
-  image: plastic_trash.jpg
+  image: Shredded_Plastic2.jpg
   title: Sorting and Shredding of Plastic Waste
   text: "We are producing clean, graded and shredded plastic for supplying our plant. We are also selling this feedstock to other consumers in the market who are already purchasing waste plastic from dumpsites."
   cols: 4

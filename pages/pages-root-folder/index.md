@@ -2,12 +2,15 @@
 layout: kz-page
 header: no
 image:
-    title: logo_image.png
+    title: Pyro-degradeHD.jpg
 permalink: /index.html
 homepage: true
 ---
 
-At Pyro-degrade Energy we process plastic waste into fuel used to power up stationery diesel engines. Pyrolysis oil is an affordable diesel substitute free from sulfur.
+Globally plastic waste is a very big problem, mainly due to the fact that we produce more plastic waste than we consume; recycling or disposing. We strongly believe that we can change this narrative by changing people’s perception about plastic waste by making them see is as a resource that can actually be used in income generation. This is where Pyro-degrade Energy comes in.
+
+At Pyro-degrade Energy we buy waste plastic from plastic pickers; grade it, clean it, shred it and bale it. We then process it to fuel. Our fuel is used as a diesel alternative for stationery diesel powered engines. Pyro-diesel is free from Sulphur and has less carbon emission and is more affordable as compared to ordinary diesel.  
+
 
 
 <div class="row t60 b60">
