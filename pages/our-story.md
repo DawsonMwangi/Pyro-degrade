@@ -2,45 +2,44 @@
 layout: kz-page
 title: Our story
 permalink: /our-story/
-header:
-  title: ""
-  image_fullwidth: journey.jpg
-
+header: no
+image:
+    title: plastic-to-fuel.jpg
 ---
 
-
-<!-- How it all started -->
-Our story began in late 2017 when two entrepreneurs from Chandaria Business Innovation and Incubation Center sat down and decided to do something about the challenges associated with plastic waste. 
-We realized that we had to change people's perception of plastic waste; and this would only be possible if we found a way to turn plastic waste into a resource. 
+<!-- how it all started -->
+It all began in late 2017 when two entrepreneurs from Chandaria Business Innovation and Incubation Center sat down and decided to do something together to tackle the challenges associated with plastic waste. 
+We realized that we have to change people's perception of plastic waste; and this will only be possible if we find a way to turn plastic waste into a resource. 
 This is when we decided to build a machine that could produce fuel from plastic waste.
-Affordable fuel for stationary diesel engines would create a market for plastic waste and thus turn it into a resource.
+If we could supply affordable fuel for stationary diesel engines widely used in Kenya, that would create a market for post-consumer plastic and thus prevent it from becoming waste.
 
 
-<!-- 2018 -->
-We started with extensive research.
-By 2018 we've built and tested our first proof of concept model from the ground up. 
-This was a very simple processor which had the capacity to process up to 6kgs of plastic waste per batch. 
+<!-- prototyping -->
+By 2018 our research had paid off - we've built and tested our first proof of concept model from the ground up. 
+This was a very simple processor with the capacity of 6kgs of plastic per batch. 
 In June 2018 we exhibited it at the African Youth Innovation Summit in Kigali, Rwanda. 
 We were noticed and we subsequently received a prototyping grant from the UN Development Fund.
+This allowed us to design a better processor with the capacity of 30kgs per batch, though we could only proces three batches per day.
 
 
-<!-- 2019 -->
-In 2019 we were selected to join the Royal Academy of Engineering Fellowship.
-By then we've improved on our initial processor and built one that could be used domestically - with the capacity of 30kgs of plastic per batch and the maximum of 3 batches per day.
-In late 2019 we received a commercialization grant from the Kenya Innovation Agency.
-We proceeded to improve our processor further to make it more efficient and hence reduce the amount of energy and time required to make the fuel.
-Through extensive research and experimentation we've developed our commercial processor with the capacity of 30kgs of plastic per batch and the maximum of 10 batches per day.
-The processor was also designed to be self-sufficient and able to run off-grid by using the fuel it produces to power a generator.
+<!-- commercialization -->
+In 2019 we were selected for the UK's Royal Academy of Engineering fellowship.
+This was followed by a commercialization grant from the Kenya National Innovation Agency.
+Through extensive research and experimentation we've developed a more efficient processor that requires less time and energy per batch. 
+We could now process ten 30kg batches of plastic per day, producing 0.6-0.7 liters of pyro-diesel from each kg of plastic waste.
+We've designed our processor to be self-sufficient - able to run off-grid powered by the fuel it produces.
 
 
-<!-- Target market -->
-We've identified farmers practicing irrigation as our initial target market. 
-Market research showed that there are more than 100 farmers in just a single county in Kenya who are already using diesel powered generators for irrigation and hence would benefit from our affordable fuel. 
-We also realized that for some large scale farmers it will make more sense if we build them their own plants due to their high consumption rate.
+<!-- target market -->
+To prevent as much plastic waste from contaminating the environment as possible, we decided to focus on producing pyro-diesel as our core business.
+We've identified farmers practicing irrigation as our initial target market - there are more than 100 farmers in just a single county in Kenya who are already using diesel powered generators for irrigation.
+Small and medium scale farms will benefit from our pyro-diesel as it is both cheaper and more environmentally friendly than ordinary diesel.
+We will be supplying our fuel both directly to farmers and to satellite fuel stations found in most villages. 
+For large farms that generate a lot of plastic waste and consume large amounts of diesel it makes financial sense to operate their own processing plant.
+We've developed plants that fit inside a standard 20ft container specifically for them.
 
 
 <!-- 2021 -->
-As of 2021 we are now ready to go fully commercial.
-Our processor now has the capacity of 300kgs of plastic per day when running at 20% performance due to power regulations at our current location.
-By building a commercial plant we will be able to scale it to 1 tonne of plastic per day. 
-Our business model integrates all stakeholders in the value chain; right from the plastic waste supplier to the pyrolysis oil buyer. 
+For 2021 our ambition is to build our first commercial scale plant. <!-- and process 1,000,000 tonnes of plastic waste into 650,000 liters of pyro-diesel. --> 
+Next year we are planning to increase our rate of production threefold. 
+Regardless of how much we grow, we intend to spend 10% of our profit to raise awareness about the value of plastic waste, change attitudes and thus protect our planet.

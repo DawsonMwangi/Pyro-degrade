@@ -4,26 +4,25 @@ title: Products & Services
 permalink: /products-and-services/
 header:
   title: ""
-  image_fullwidth: logo_image.png
+  image_fullwidth: dumpsite-with-people.jpg
 widgets:
 - url: 
-  image: Fuel.jpg
-  title: Sale of Fuel
-  text: "This is our core business. Our fuel; Pyro-diesel has many beneficial properties to both the users and the environment. To the users the most important is the pricing point which is 30% less than ordinary diesel. To the environment Pyro-diesel is free of Sulphur and has less carbon emission as compared to ordinary diesel."
+  image: plastic-to-fuel.jpg
+  title: Pyro-diesel
+  text: "We make pyro-diesel from plastic waste, thus preventing it from contaminating the environment. Pyro-diesel is an environmentally friendly diesel substitute - it is almost sulphur free and has a low carbon footprint. Our efficient production process means that we are able to supply pyro-diesel at a lower cost than ordinary diesel."
   cols: 4
 
 - url: 
-  image: Processing_Plant.jpeg
-  title: Construction of processing plants
-  text: "We specialize in construction of private processing units for large scale farms with high consumption of diesel and a need for safe disposal of their plastic waste. The plants vary in sizes mainly based on the specific clients demands and storage capacity. A standard plant is designed to fit inside a standard 20ft container, this also comes with fuel, water and gas storage tanks which are set up outside the container and the package also includes a plastic shredder which is also a separate set up."
+  image: Processing_Plant-cropped.jpg
+  title: Pyrolysis plants
+  text: "For large-scale farmers, or indeed anyone who has a large amount of plastic waste and a demand for diesel, it makes sense to operate their own plant to avoid transportation costs. A basic plant is designed to fit inside a standard 20ft container. The shredder for plastic waste and storage tanks for fuel, water and gas will be set up outside the container. Each plant will be customised to fit the customers specifications and desired capacity."
   cols: 4
 
 - url: 
-  image: Shredded_Plastic2.jpg
-  title: Sorting and Shredding of Plastic Waste
-  text: "We are producing clean, graded and shredded plastic for supplying our plant. We are also selling this feedstock to other consumers in the market who are already purchasing waste plastic from dumpsites."
+  image: plastic_flakes.jpg
+  title: Shredded plastic
+  text: "Clean, sorted and shredded plastic that we use to operate our plants is also available for sale. Please contact us to discuss if we can fulfil your specific requirements in terms of the type of plastic and the volume."
   cols: 4
-
 ---
 
 <div class="row">
@@ -35,6 +34,3 @@ widgets:
     {% endif %}
   {% endfor %}
 </div>
-
-
-
