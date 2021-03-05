@@ -10,8 +10,8 @@
   url: "/our-story/"
   side: left
 
-- title: "Products & Services"
-  url: "/products-and-services/"
+- title: "Products"
+  url: "/products/"
   side: left
 
 - title: "Team"

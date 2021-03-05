@@ -1,7 +1,7 @@
 ---
 layout: kz-page
-title: Products & Services
-permalink: /products-and-services/
+title: Our products
+permalink: /products/
 header:
   title: ""
   image_fullwidth: dumpsite-with-people.jpg

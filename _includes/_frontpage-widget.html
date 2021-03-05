@@ -23,12 +23,16 @@
 		</a>
 	{% endif %}
 
-	{% if include.widget.teaser != empty %}
-	<h2 class="font-size-h5 font-widget-teaser t10">{{ include.widget.teaser }}</h2>
+	{% if include.widget.title != empty %}
+	<h2 class="font-size-h3 t10 b15">{{ include.widget.title }}</h2>
 	{% endif %}
 
-	{% if include.widget.title != empty %}
-	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
+	{% if include.widget.location != empty %}
+	<p class="subheadline">{{ include.widget.location }}</p>
+	{% endif %}
+
+	{% if include.widget.dates != empty %}
+	<p class="subheadline">{{ include.widget.dates }}</p>
 	{% endif %}
 
 	{% if include.widget.text != empty %}
@@ -47,8 +51,3 @@
 	</div>
 	{% endif %}
 </div>
-
-
-
-
-
