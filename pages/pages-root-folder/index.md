@@ -26,7 +26,7 @@ widgets:
 
 <div class="row t60 b60">
     <div class="small-12 text-center columns">
-        <a class="button large radius {{ page.callforaction.style }}" href="https://youtu.be/pTas6aR1kx8?t=70">Watch a video!</a>
+        <a class="button large radius {{ page.callforaction.style }}" href="https://youtu.be/vURta5cMttI?t=570">Watch a video!</a>
     </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
